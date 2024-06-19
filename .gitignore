@@ -1,0 +1,15 @@
+# Ignore build artifacts
+/build/
+
+# Ignore generated files by CMake
+/cryptopp-cmake/
+
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore any other temporary files or editor-specific files
+.vscode/
+*.swp
+*~
